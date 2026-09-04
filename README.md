@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 <!--
 **rebeldomaker/rebeldomaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🚀 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebeldomaker&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebeldomaker&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rebeldomaker&theme=dracula)](https://git.io/streak-stats)
