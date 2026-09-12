@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rebeldomaker&theme=dracula)](https://git.io/streak-stats)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=150&section=header&text=!&fontSize=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=150&section=header&text=(o_o)&fontSize=35)
 
 <!--
 
