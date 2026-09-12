@@ -8,7 +8,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rebeldomaker&theme=dracula)](https://git.io/streak-stats)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=150&section=header&text&fontSize=35)
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -33,6 +32,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
 </p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=150&section=header&text&fontSize=35)
 
 <!--
 **rebeldomaker/rebeldomaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
